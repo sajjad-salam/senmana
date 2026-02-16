@@ -54,7 +54,7 @@ urllib3>=1.26.0
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/asian-player-downloader.git
+git clone https://github.com/sajjad-salam/asian-player-downloader.git
 cd asian-player-downloader
 ```
 
