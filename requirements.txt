@@ -1,0 +1,9 @@
+# HTTP Library
+requests>=2.25.0
+
+# HTTP Client (for disabling SSL warnings)
+urllib3>=1.26.0
+
+# Note: tkinter is included with standard Python installations.
+# If you're on Linux and tkinter is not installed, use:
+# sudo apt-get install python3-tk
